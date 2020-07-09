@@ -20,7 +20,7 @@ class Node {
     };
 };
 // Declare the original word to test isPalindrone()
-const word = "tattarrattat";
+const word = "RACECAR";
 // Declare the list which will be a LL created from the original word to test
 let list;
 // Create a runner to traverse the LL and allow you to access its properties
